@@ -1,4 +1,4 @@
-# platformer
+# Platformer Project
 Learning to make a Platformer game using Pygame.
 
 Current features:
