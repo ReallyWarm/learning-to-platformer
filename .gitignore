@@ -1,0 +1,4 @@
+data/images/art/*
+data/images/test/*
+data/images/unused/*
+**/__pycache__
