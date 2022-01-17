@@ -1,7 +1,7 @@
 # Platformer Project
 Learning to make a Platformer game using Pygame.
 
-Current features:
+## Current features:
 - double jump
 - dash
 - coin points
